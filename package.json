@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "web-vitals": "^4.2.4"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.12.4"
+  }
+}
